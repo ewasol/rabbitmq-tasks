@@ -1,0 +1,14 @@
+PoC.txt
+.venv/
+.env
+**/.env
+**/postgres_data
+.pytest_cache/
+*.mypy_cache/**
+**/__pycache__/
+__pycache__/
+.env-dev
+**/__pycache__/**
+htmlcov/
+.idea/
+.isort.cfg
